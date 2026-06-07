@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-class flySRM
+class flyRM
 {
     public:
     string from, to, feedback;
